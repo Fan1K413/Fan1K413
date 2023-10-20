@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=Fan1K413&show_icons=true&theme=transparent&locale=cn)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&locale=cn)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&locale=cn)](#)
