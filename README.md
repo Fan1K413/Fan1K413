@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=Fan1K413&show=discussions_started,discussions_answered&locale=cn&rank_icon=github)](#)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=Fan1K413&show=discussions_answered&locale=cn&rank_icon=github)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&locale=cn)](#)
