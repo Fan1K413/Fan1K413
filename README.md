@@ -1,6 +1,6 @@
 # 你好，我是[Fan1K_](https://cyming.top)! 👋
 
-<img width="27500" align="right" src="https://www.cyming.top/image/logo1.png" />
+<img width="100" align="right" src="https://www.cyming.top/image/logo1.png" />
 
 > 一个普通人
 
