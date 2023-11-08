@@ -2,7 +2,7 @@
 
 <img width="125" align="right" src="https://img.cyming.top/file/dc6bec7675d1dd05b5a09.png" />
 
-> 一个普通人
+> Fan1K_
 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https://cyming.top)](https://cyming.top) ![Chromium HSTS preload](https://img.shields.io/hsts/preload/cyming.top?style=for-the-badge)
 
