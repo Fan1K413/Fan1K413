@@ -6,11 +6,8 @@
 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https://www.cyming.top)](https://www.cyming.top) ![Chromium HSTS preload](https://img.shields.io/hsts/preload/cyming.top?style=for-the-badge)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=Fan1K413&show=discussions_answered&locale=cn&rank_icon=github)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&locale=cn)](#)
-
 <p>
-  <img src="https://img.shields.io/badge/Windows-11%20(Release%20preview)-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/mi-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />
   <img src="https://img.shields.io/badge/android-3ddc84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
